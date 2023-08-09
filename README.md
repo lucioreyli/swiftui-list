@@ -1,2 +1,4 @@
 ## SwiftUI List and Navigation training
-[![Demonstration](./demo.mp4)
+
+### Video demonstration
+<a href="./demo.mp4"><img alt="play video demonstration" src="./demo.png" height="350"/></a>
